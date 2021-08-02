@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @namitaawasthi
-- 👀 I’m interested in creative web designing and skilled web development
+- 👀 I’m interested in creative web designing and development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on --angular
 - 📫 How to reach me -- digital.namita11556@gmail.com
